@@ -150,7 +150,7 @@ class Rcon {
      * @param  string $command The command to be executed
      * @param  boolean $read Whether to return the server response or not (optional)
      * @throws RconException If the command couldn't be sent to the server
-     * @return The server response to the given RCON command is specified in the
+     * @return The server response to the given RCON command if specified in the
      *         method execution or NULL if the server response is not valid or if
      *         we are not supposed to retrieve it
      */
