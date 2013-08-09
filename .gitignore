@@ -1,0 +1,5 @@
+.DS_Store
+.project
+.buildpath
+.settings/org.eclipse.php.core.prefs
+.settings/org.eclipse.wst.common.project.facet.core.xml
